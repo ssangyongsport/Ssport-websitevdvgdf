@@ -3,7 +3,6 @@ import matter from 'gray-matter';
 import Image from 'next/image';
 import Link from 'next/link';
 import Head from 'next/head'
-import styles from './components/Button.module.css';
 
 
 // The Blog Page Content
